@@ -1,0 +1,7 @@
+node_modules/
+*.log
+_dump.txt
+_preview-*.png
+_preview.html
+.DS_Store
+Thumbs.db
